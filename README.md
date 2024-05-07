@@ -34,7 +34,7 @@ Overview
 To run this application locally, follow these steps:
 1.Clone the Repository:
    ```bash
-   git clone https://github.com/davidniyonkur15/Iwacu-dailry.git
+   git clone https://github.com/davidniyonkuru15/Iwacu-dairly.git
    ```
 
 2. Database Configuration:
